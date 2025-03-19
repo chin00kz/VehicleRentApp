@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Vehicle Rental App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="see_all">See All</string>
+    <string name="find_your_favourite_nvehicle">Find Your Favourite\nVehicle.</string>
+    <string name="your_location">Your Location</string>
+    <string name="matara_sri_lanka">Matara, Sri Lanka</string>
+    <string name="search_for">Search for...</string>
+    <string name="bmw">BMW</string>
+    <string name="available_near_you">Available Near You</string>
+    <string name="honda">HONDA</string>
+    <string name="toyota">TOYOTA</string>
+    <string name="audi">AUDI</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="facebook">Facebook</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="google">Google</string>
+    <string name="create_naccount">Create\nAccount</string>
+    <string name="name">Name</string>
+    <string name="already_have_account_login">Already Have Account, Login</string>
+    <string name="find_and_rent_ncar_in_easy_nsteps">Find And Rent\nCar In Easy\nSteps</string>
+    <string name="at_the_nbest_prices_nstaring_at_rs_5000_day">At the\nBest Prices\nStaring at Rs.5000 /day</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="bmw_318i_sport">BMW 318i - Sport</string>
+    <string name="_3_8_240_review">3.8 (240 + Review)</string>
+    <string name="thinusha_vid">Thinusha Vid</string>
+    <string name="renter">Renter</string>
+    <string name="car_info">Car Info</string>
+    <string name="_4_passangers">4 Passangers</string>
+    <string name="air_conditioning">Air Conditioning</string>
+    <string name="fuel_into_full_to_full">Fuel Into - Full to Full</string>
+    <string name="textview">TextView</string>
+    <string name="auto">Auto</string>
+    <string name="booking_now_rs_15000_day">Booking Now | Rs.15000 /day</string>
+    <string name="booking">Booking</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log Out</string>
+    <string name="help_and_support">Help And Support</string>
+    <string name="payment">Payment</string>
+    <string name="view_profile">View Profile</string>
+    <string name="profile">Profile</string>
+    <string name="thinuxbro_gmail_com">thinuxbro@gmail.com</string>
+    <string name="thinux_bro">Thinux_Bro</string>
+
+    <style name="log_out_button">Log Out</style>
+</resources>
